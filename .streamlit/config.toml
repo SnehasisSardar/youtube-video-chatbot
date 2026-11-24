@@ -1,0 +1,6 @@
+[browser]
+gatherUsageStats = false
+
+[server]
+# Only this computer can open the app. Remove to share it on your network.
+address = "localhost"

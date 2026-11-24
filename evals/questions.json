@@ -1,0 +1,27 @@
+{
+  "video": "aircAruvnKk",
+  "title": "But what is a neural network? (3Blue1Brown)",
+  "note": "answers are the [start, end] spans, in seconds, where the video answers the question. Labelled by hand from the caption times.",
+  "questions": [
+    {"question": "What size are the digit images?", "answers": [[4, 14], [49, 60], [183, 194]]},
+    {"question": "What does a neuron hold?", "answers": [[168, 183]]},
+    {"question": "How many input neurons are there and why?", "answers": [[183, 199]]},
+    {"question": "What do the ten neurons in the last layer stand for?", "answers": [[226, 243]]},
+    {"question": "Why were two hidden layers with 16 neurons chosen?", "answers": [[254, 268]]},
+    {"question": "Is there a biological analogy for neurons firing?", "answers": [[289, 298], [1043, 1050], [1072, 1086]]},
+    {"question": "Which layer is hoped to detect loops and lines?", "answers": [[367, 392]]},
+    {"question": "How could recognising a loop be broken into smaller problems?", "answers": [[413, 428]]},
+    {"question": "How does layered abstraction apply to speech recognition?", "answers": [[488, 501]]},
+    {"question": "What is a weighted sum of activations?", "answers": [[548, 567]]},
+    {"question": "How do negative weights help pick up an edge?", "answers": [[599, 614]]},
+    {"question": "What does the sigmoid function do?", "answers": [[624, 649]]},
+    {"question": "What is a bias for?", "answers": [[662, 696]]},
+    {"question": "How many weights and biases does the network have in total?", "answers": [[719, 747]]},
+    {"question": "What does learning mean for a network?", "answers": [[751, 762]]},
+    {"question": "How are the weights organised into a matrix?", "answers": [[828, 845]]},
+    {"question": "Why is the matrix notation faster in code?", "answers": [[895, 917]]},
+    {"question": "Why is the whole network just a function?", "answers": [[939, 963]]},
+    {"question": "Who is the guest who talks about activation functions?", "answers": [[1023, 1035]]},
+    {"question": "Why is ReLU used instead of sigmoid in modern networks?", "answers": [[1050, 1062], [1091, 1105]]}
+  ]
+}
